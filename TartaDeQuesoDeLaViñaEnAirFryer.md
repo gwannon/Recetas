@@ -5,8 +5,7 @@
 - 250 ml. de nata para montar
 - 4 huevos
 - 180 gr. de azucar
-- 15 gr. maizena
-- 2 cucharaditas de parmesano en polvo
+- 15 gr. maizena 
 ## Elaboración
 1. Precalentar la freidora.
 2. Mientras batir todo y verter en un molde forrado de papel de horno.
@@ -14,3 +13,8 @@
 4. Despues 8 minutos a 165 grados. La tarta tiene que quedar bailonga, moviendose el centro.
 5. Reposar 10 minutos dentro de la freidora.
 6. Cuando enfríe meter en la nevera.
+## Consejos
+- Está mejor de un día para otro.
+- El queso crema puede cambiarse por más queso marcaspone.
+- Si queremos más sabor aqueso podemos echarle un poquitin de queso con sabor fuerte, por ejemplo, 2 cucharaditas de parmesano en polvo.
+
