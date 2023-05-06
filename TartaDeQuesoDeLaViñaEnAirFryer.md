@@ -1,7 +1,7 @@
 # Tarta de queso de La Viña
 ## Ingredientes
-- 250 gr. de mascarpone
-- 250 gr. de queso philadelphia
+- 250 gr. de queso mascarpone
+- 250 gr. de queso crema
 - 250 ml. de nata para montar
 - 4 huevos
 - 180 gr. de azucar
