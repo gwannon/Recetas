@@ -1,4 +1,4 @@
-# Tarta de queso de La Viña
+# Empanada de Cornualles
 ## Ingredientes
 - ...
 ## Elaboración
