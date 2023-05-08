@@ -3,6 +3,9 @@
 * [Jambalaya](https://github.com/gwannon/Recetas/blob/main/Arroces/Jambalaya.md)
 # Entrantes
 * Nachos Sonora 
+# Masas
+* Pasta fresca
+* Masa de pizza
 # Platos únicos
 * [Empanada de Cornualles](https://github.com/gwannon/Recetas/blob/main/PlatosUnicos/EmpanadaDeCornualles.md)
 * Hamburguesa con pan de donuts
