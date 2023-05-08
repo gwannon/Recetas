@@ -16,4 +16,4 @@
 ## Consejos
 - Está mejor de un día para otro.
 - El queso crema puede cambiarse por más queso marcaspone.
-- Si queremos más sabor a queso podemos echarle un poquitin de queso con sabor fuerte, por ejemplo, 2 cucharaditas de parmesano en polvo.
+- Si queremos más sabor a queso podemos echarle un poquitín de queso con sabor fuerte, por ejemplo, 2 cucharaditas de parmesano en polvo.
