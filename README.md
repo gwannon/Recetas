@@ -1,3 +1,5 @@
+# Arroces
+*[Arroz congri](https://github.com/gwannon/Recetas/blob/main/Arroces/ArrozCongri.md)
 # Platos únicos
 * [Empanada de Cornualles](https://github.com/gwannon/Recetas/blob/main/PlatosUnicos/EmpanadaDeCornualles.md)
 # Postres
