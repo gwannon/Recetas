@@ -1,4 +1,4 @@
-# Tarta de queso de La Viña
+# Tarta de queso de La Viña (Airfryer)
 ## Ingredientes
 - 250 gr. de queso mascarpone
 - 250 gr. de queso crema
@@ -16,5 +16,4 @@
 ## Consejos
 - Está mejor de un día para otro.
 - El queso crema puede cambiarse por más queso marcaspone.
-- Si queremos más sabor aqueso podemos echarle un poquitin de queso con sabor fuerte, por ejemplo, 2 cucharaditas de parmesano en polvo.
-
+- Si queremos más sabor a queso podemos echarle un poquitin de queso con sabor fuerte, por ejemplo, 2 cucharaditas de parmesano en polvo.
