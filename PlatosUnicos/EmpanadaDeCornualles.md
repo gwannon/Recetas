@@ -1,6 +1,6 @@
 # Empanada de Cornualles
 ## Ingredientes
-### ara la masa
+### Para la masa
 - 225 g de harina blanca fuerte
 - 55 g de manteca de cerdo
 - 50 g de margarina
