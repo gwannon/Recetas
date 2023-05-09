@@ -24,4 +24,4 @@
 11. Cortar antes de comer para que se enfríe porque el interior sale ardiendo.
 ## Consejos
 - Las medidas son para dos empanadas de buen tamaño. Haz lo ajustes que veas necesarios.
-- Si no tienes colinabos puedes ponerle otros tuberculos como zanahorias.
+- Si no tienes colinabos puedes ponerle otros tubérculos como zanahorias.
