@@ -1,9 +1,11 @@
 # Arroces
 * [Arroz congri](https://github.com/gwannon/Recetas/blob/main/Arroces/ArrozCongri.md)
 * Croquetones de risotto con mozarrella
+* Arroz tailandés con piña
 * [Jambalaya](https://github.com/gwannon/Recetas/blob/main/Arroces/Jambalaya.md)
 * Risotto de pollo
 # Entrantes y picoteo
+* Gyozas
 * [Karaage (pollo frito japonés)](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/Karaage.md)
 * Nachos Sonora
 * Onigirazu (Sandwich de sushi)
@@ -16,6 +18,7 @@
 * [Hamburguesa con pan de donuts](https://github.com/gwannon/Recetas/blob/main/PlatosUnicos/HamburguesaConPanDeDonuts.md)
 * Okonomiyaki (Pizza japonesa)
 # Postres
+* Brownie
 * [Mars Frita](https://github.com/gwannon/Recetas/blob/main/Postres/MarsFrita.md)
 * [Tarta de queso de La Viña](https://github.com/gwannon/Recetas/blob/main/Postres/TartaDeQuesoDeLaVi%C3%B1aEnAirFryer.md)
 * Tarta de crema inglesa
