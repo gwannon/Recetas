@@ -6,4 +6,4 @@
 ## Consejos
 - ...
 
-![Takoyaki](https://github.com/gwannon/Recetas/blob/main/takoyaki.jpeg?raw=true)
+![Takoyaki](https://raw.githubusercontent.com/gwannon/Recetas/main/imagenes/takoyaki.jpeg)
