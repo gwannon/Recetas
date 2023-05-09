@@ -22,6 +22,7 @@
 * [Mars Frita](https://github.com/gwannon/Recetas/blob/main/Postres/MarsFrita.md)
 * [Tarta de queso de La Viña](https://github.com/gwannon/Recetas/blob/main/Postres/TartaDeQuesoDeLaVi%C3%B1aEnAirFryer.md)
 * Tarta de crema inglesa
+* Tortitas con bacón
 * Helados
 # Salsas
 * [Salsa Currywurst](https://github.com/gwannon/Recetas/blob/main/Salsas/SalsaCurrywurst.md)
