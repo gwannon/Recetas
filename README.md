@@ -3,8 +3,8 @@
 * Croquetones de risotto con mozarrella
 * [Jambalaya](https://github.com/gwannon/Recetas/blob/main/Arroces/Jambalaya.md)
 * Risotto de pollo
-# Entrantes
-* Karaage (pollo frito japonés)
+# Entrantes y picoteo
+* [Karaage (pollo frito japonés)](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/Karaage.md)
 * Nachos Sonora
 * Onigirazu (Sandwich de sushi)
 * Takoyaki (Buñuelos de pulpo)
