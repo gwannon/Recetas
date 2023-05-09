@@ -1,11 +1,11 @@
 # Tarta de queso de La Viña (Airfryer)
 ## Ingredientes
-- 250 gr. de queso mascarpone
-- 250 gr. de queso crema
-- 250 ml. de nata para montar
+- 250 g de queso mascarpone
+- 250 g de queso crema
+- 250 ml de nata para montar
 - 4 huevos
-- 180 gr. de azucar
-- 15 gr. maizena 
+- 180 g de azucar
+- 15 g maizena 
 ## Elaboración
 1. Precalentar la freidora.
 2. Mientras batir todo y verter en un molde forrado de papel de horno.
