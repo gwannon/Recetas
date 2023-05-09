@@ -1,4 +1,4 @@
-# Arroz Congri
+# Karaage (pollo frito japonés)
 ## Ingredientes
 - 2 contramuslos deshuesados de pollo con piel
 - Harina de trigo y maizena
@@ -18,3 +18,5 @@
 - Lo de la piel de pollo es cuestión de gusto. 
 - Si no tienen sake puedes hacerlo con vino blanco. Con mirin también he probado y queda bien.
 - Prueba a echarle otros ingredientes al marinado como pimentón picante o guindillas.
+
+[Receta original](https://japonismo.com/blog/receta-de-tori-no-karaage)
