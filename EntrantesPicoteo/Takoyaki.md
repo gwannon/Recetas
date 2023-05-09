@@ -1,4 +1,4 @@
-# Takoyaki
+# Takoyaki (Buñuelos de pulpo)
 ## Ingredientes
 - ...
 ## Elaboración

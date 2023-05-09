@@ -7,7 +7,7 @@
 * [Karaage (pollo frito japonés)](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/Karaage.md)
 * Nachos Sonora
 * Onigirazu (Sandwich de sushi)
-* Takoyaki (Buñuelos de pulpo)
+* [Takoyaki (Buñuelos de pulpo)](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/Takpyaki.md)
 # Masas
 * Pasta fresca
 * Masa de pizza
