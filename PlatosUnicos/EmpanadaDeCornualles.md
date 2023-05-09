@@ -21,6 +21,6 @@
 8. Cortar antes de comer para que se enfríe porque el interior sale ardiendo.
 ## Consejos
 - Las medidas son para dos empanadas de buen tamaño. Haz lo ajustes que veas necesarios.
-- Si no tienes colinabo a mano puedes ponerle otras verduras como col, rabanos, nabos, zanahorias.
+- Si no tienes colinabo a mano puedes ponerle otras verduras como col, rábanos, nabos, zanahorias.
 - Si quieres mejorar el aspecto puedes darle una capa de huevo batido o de leche por encima antes de hornear.
 - Puedes cambiar la carne picada por otras tipos de carne sin problema. 
