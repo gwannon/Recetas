@@ -12,3 +12,5 @@
 ## Consejos
 - Puedes probar con otras chocolatinas hasta que des con la que te gusta.
 - Este rebozado también puedes usarlo con salchichas de sobre y queda muy bien.
+
+![Takoyaki](https://raw.githubusercontent.com/gwannon/Recetas/main/imagenes/marsfrita.jpg)
