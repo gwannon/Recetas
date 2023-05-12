@@ -1,8 +1,9 @@
-# Arroz Congri
+# Nachos SOnora
 ## Ingredientes
-- 250 g de frijoles negros
-- 300 g de arroz largo
-- 30 g de panceta de cerdo ahumada
+- 2 bolsas de nacho
+- 1 bolsa de queso rallado al gusto
+- 200 g de frijoles negros
+- 100 g de panceta de cerdo ahumada
 - 1/2 cucharadita de comino
 - 1/2 cucharadita de oregano
 - 2 cebollas
@@ -19,7 +20,7 @@
 4. Añadir la cebolla y el pimiento y sofreír durante 5 minutos. 
 5. Añadir el ajo machacado, el comino y el orégano, y mezclar unos 2 0 3 minutos más. 
 6. Añadir el vinagre, el azúcar y el laurel y dejar otros 2 o 3 minutos al fuego. 
-7. Incorporar el arroz, 2 vasos agua de cocer los frijoles y los frijoles. 
-8. Tapar y dejar cocer a fuego suave durante unos quince minutos hasta que el arroz haya absorbido el agua.
+7. Incorporar Los frijoles y 1/2 vasos agua de cocer los frijoles. 
+8. ...
 ## Consejos
-- Puedes usarlo como relleno de burritos.
+- ...
