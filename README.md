@@ -26,3 +26,4 @@
 * Helados
 # Salsas
 * [Salsa Currywurst](https://github.com/gwannon/Recetas/blob/main/Salsas/SalsaCurrywurst.md)
+* [Sofrito de tomate](https://github.com/gwannon/Recetas/blob/main/Salsas/SofritoDeTomate.md)
