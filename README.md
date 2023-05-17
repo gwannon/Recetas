@@ -26,5 +26,3 @@
 * Helados
 # Salsas
 * [Salsa Currywurst](https://github.com/gwannon/Recetas/blob/main/Salsas/SalsaCurrywurst.md)
-# Otros
-* [Pimientos asados en Air Fryer](https://github.com/gwannon/Recetas/blob/main/Otros/PimientosAsadosEnAirFryer.md)
