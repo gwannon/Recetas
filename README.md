@@ -7,7 +7,7 @@
 # Entrantes y picoteo
 * Gyozas
 * [Karaage (pollo frito japonés)](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/Karaage.md)
-* [Nachos Sonora](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/NachosSonora.md)
+* [Nachos](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/Nachos.md)
 * Onigirazu (Sandwich de sushi)
 * [Takoyaki (Buñuelos de pulpo)](https://github.com/gwannon/Recetas/blob/main/EntrantesPicoteo/Takoyaki.md)
 # Masas
@@ -26,3 +26,4 @@
 * Helados
 # Salsas
 * [Salsa Currywurst](https://github.com/gwannon/Recetas/blob/main/Salsas/SalsaCurrywurst.md)
+* [Sofrito de tomate](https://github.com/gwannon/Recetas/blob/main/Salsas/SofritoDeTomate.md)

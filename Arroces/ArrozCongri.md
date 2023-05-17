@@ -3,15 +3,15 @@
 - 250 g de frijoles negros
 - 300 g de arroz largo
 - 30 g de panceta de cerdo ahumada
-- 1/2 cucharadita de comino
-- 1/2 cucharadita de oregano
-- 2 cebollas
+- 1 cucharadita de comino
+- 1 cucharadita de oregano
+- 1 cebollas
 - 1 pimiento
 - 3 dientes de ajo
 - 2 cucharadas de aceite de oliva
 - 1 hoja de laurel
 - 2 cucharadas azúcar
-- 2 cucharadas de vinagre
+- 1/4 vaso de vinagre
 ## Elaboración
 1. Si se utilizan los frijoles secos, se dejan en remojo la noche anterior y al día siguiente se cuecen en la olla rápida mientras preparamos el resto de la receta.
 2. Cortar en tiras el pimiento y las cebollas. 
