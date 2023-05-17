@@ -27,3 +27,5 @@
 # Salsas
 * [Salsa Currywurst](https://github.com/gwannon/Recetas/blob/main/Salsas/SalsaCurrywurst.md)
 * [Sofrito de tomate](https://github.com/gwannon/Recetas/blob/main/Salsas/SofritoDeTomate.md)
+# Otros
+* [Pimientos Asados en AirFryer](https://github.com/gwannon/Recetas/blob/main/Otros/PimientosAsadosEnAirFryer.md)
