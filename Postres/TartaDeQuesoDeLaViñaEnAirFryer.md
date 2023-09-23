@@ -9,7 +9,7 @@
 ## Elaboración
 1. Precalentar la freidora.
 2. Mientras batir todo y verter en un molde forrado de papel de horno.
-3. Meter el molde en la freidora poner en menú postre ( 30 minutos a 150 grados).
+3. Meter el molde en la freidora y poner en menú postre ( 30 minutos a 150 grados).
 4. Después 8 minutos a 165 grados. La tarta tiene que quedar bailonga, moviendose el centro.
 5. Reposar 10 minutos dentro de la freidora.
 6. Cuando enfríe meter en la nevera.
